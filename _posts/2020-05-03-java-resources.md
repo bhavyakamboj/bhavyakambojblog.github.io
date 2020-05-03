@@ -32,8 +32,12 @@ java 8 / 11 certification
 - Reddit Learn Prograamming [Reddit Learn Programming](https://www.reddit.com/r/learnprogramming/)
 - Pluralsight [Pluralsight](https://www.pluralsight.com/)
 - Reddit Learn Java [Reddit Learn Java](https://www.reddit.com/r/learnjava/)
+- ebook [JUnit in Action Live book ](https://livebook.manning.com/book/junit-in-action-third-edition/welcome/v-6/2)
+- ebooks [Manning Live Book](https://livebook.manning.com/)
+- ebook [Modern Java in Action](https://github.com/codegymdanang/CGDN-Ebooks/blob/master/Java/Modern%20Java%20in%20Action%2C%202nd%20Edition.pdf)      [Source code](https://www.manning.com/downloads/1631)
 
-
+## Java Multi Threading
+- [Java Concurrency examples](https://github.com/bhavyakamboj/java-concurrency-examples)    [Tutorial on Callicoder](https://www.callicoder.com/java-concurrency-multithreading-basics/)
 
 ### Tools
 - Command Line Power Users [Command Line Power Users](https://commandlinepoweruser.com/)
@@ -71,6 +75,7 @@ Tips [Tips for Technical Interview](https://learntocodewith.me/posts/technical-i
 Tips [Programming Interview](https://learntocodewith.me/posts/programming-interview/)
 
 
+
 ### Front end
 - Mozilla Developer Network [Mozilla Developer Network: MDN - HTML, CSS, JS](https://developer.mozilla.org/en-US/)
 - NodeSchool [Node School - interactive course command line](https://nodeschool.io/)
@@ -100,7 +105,8 @@ Complete road map [Learn Code Academy - Youtube](https://www.youtube.com/user/le
 Web Developer in 2020 - [Map for Web Developer in 2020](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
 
 ### Blogs
-- Java revisited
+- Java Guides [Java Guides - Source codes for projects](https://www.javaguides.net/)
+- Java Guides Youtube [Java Guides - Youtube Channel](https://www.youtube.com/channel/UC1Be9fnFTlcsUlejgfqag0g/)
 - [DZone](https://dzone.com/)
 - [FreeCodeCamp Java Posts](https://www.freecodecamp.org/news/tag/java/)
 - [Java Revisited](https://javarevisited.blogspot.com/)
@@ -110,6 +116,8 @@ Web Developer in 2020 - [Map for Web Developer in 2020](https://coggle.it/diagra
 - [Learn Java 8 - YouTube Tutorial](https://www.youtube.com/watch?v=grEKMHGYyns)
 - [Java Clean Code Course - Marcus Biel](https://marcus-biel.com/clean-code-courses/) 
 - [Coursera - Java Courses](https://www.coursera.org/courses?query=java)
+- [Josh Long - Spring](http://joshlong.com/)
+
 
 Online communities
 Reddit
@@ -119,3 +127,11 @@ Oracle Java Community [Oracle Java Community](https://www.oracle.com/technetwork
 
 ## Project Ideas
 - OptaPlanner [OptaPlanner](https://www.optaplanner.org/)
+- Snowflake [Medium Snowflake](https://snowflake.medium.com/#5,2,3,2,4,1,1,4,3,2,0,4,2,2,3,0,Cersei%20Lannister,Principal%20Engineer) Create a snowflake based on skills acquired by a person 
+- https://www.javaguides.net/2018/09/mini-todo-management-project-using-spring-boot-springmvc-springsecurity-jsp-hibernate-mysql.html
+- Create your own Json Formatter to avoid data misuse by third party sites
+- Create a UI client for https://www.gopass.pw/ like https://github.com/codecentric/gopass-ui (Back end written in Go Lang)
+- [Github merge request notifier](https://github.com/bhavyakamboj/merge-request-notifier) - build upon it
+- Implement [Chaos monkey for Spring Boot](https://github.com/bhavyakamboj/chaos-monkey-spring-boot)
+- Implement [Hikaku - tests if api developed meets its specifications](https://github.com/codecentric/hikaku)
+- Implement BDD with JUnit5 [Structured Junit 5](https://blog.codecentric.de/en/2018/09/structured-junit-5-testing/)
