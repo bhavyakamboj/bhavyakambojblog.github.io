@@ -53,26 +53,31 @@ java 8 / 11 certification
 - Android developement [Official Android resources](https://developer.android.com/courses#for-new-programmers)
 - Learn to code by playing games [Play Games - Learn Code](https://firebearstudio.com/blog/play-code-learn-programming-by-playing-games.html)
 - Learn VIM by playing games [Learn VIM by playing games](https://vim-adventures.com/)
+- Continuous Integration project [Jenkins, SonarQube, GitLab, Selenium Grid, Nexus]((https://github.com/marcelbirkner/docker-ci-tool-stack)
+- Scala snippets [Scala snippets](https://github.com/reljicd/spark-playground)
+- Python [Data analysis with Python](https://csmastersuh.github.io/data_analysis_with_python_spring_2020/)
+- MOOC.FI [Free Mooc FI courses](https://www.mooc.fi/en/)
+- Docker [DevOps with Docker](https://devopswithdocker.com/)
 
 ### Interview
-Interview cake [Interview Cake TOC](https://www.interviewcake.com/table-of-contents)
-Algo Expert [AlgoExpert - Algo and System Design](https://www.algoexpert.io/)
-Coursera [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
-Udemy [Master the Coding Interview: Data Structures + Algorithms
+- Interview cake [Interview Cake TOC](https://www.interviewcake.com/table-of-contents)
+- Algo Expert [AlgoExpert - Algo and System Design](https://www.algoexpert.io/)
+- Coursera [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
+- Udemy [Master the Coding Interview: Data Structures + Algorithms
 ](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/?)
-Udemy [How to Pass a Coding Interview](https://www.udemy.com/course/how-to-pass-a-coding-interview/)
-Udemy [Master the JavaScript Interview](https://www.udemy.com/course/master-the-javascript-interview/)
-LinkedIn [Get Ready for Your Coding Interview](https://www.linkedin.com/learning/get-ready-for-your-coding-interview)
-Udemy [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
-Udemy [11 Essential Coding Interview Questions + Coding Exercises!](https://www.udemy.com/course/11-essential-coding-interview-questions/)
-Udemy [Java Interview Guide : 200+ Interview Questions and Answers](https://www.udemy.com/course/java-interview-questions-and-answers/)
-Amazon ebook [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition
+- Udemy [How to Pass a Coding Interview](https://www.udemy.com/course/how-to-pass-a-coding-interview/)
+- Udemy [Master the JavaScript Interview](https://www.udemy.com/course/master-the-javascript-interview/)
+- LinkedIn [Get Ready for Your Coding Interview](https://www.linkedin.com/learning/get-ready-for-your-coding-interview)
+- Udemy [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
+- Udemy [11 Essential Coding Interview Questions + Coding Exercises!](https://www.udemy.com/course/11-essential-coding-interview-questions/)
+- Udemy [Java Interview Guide : 200+ Interview Questions and Answers](https://www.udemy.com/course/java-interview-questions-and-answers/)
+- Amazon ebook [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition
 ](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions)
-Amazon ebook [Daily Coding Problem: Get exceptionally good at coding interviews by solving one problem every day](https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/)
-Amazon ebook [Programming Interviews Exposed: Coding Your Way Through the Interview 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview)
-Amazon ebook [Surviving the Whiteboard Interview: A Developer’s Guide to Using Soft Skills to Get Hired](https://www.amazon.com/Surviving-Whiteboard-Interview-Developers-Skills/)
-Tips [Tips for Technical Interview](https://learntocodewith.me/posts/technical-interview/)
-Tips [Programming Interview](https://learntocodewith.me/posts/programming-interview/)
+- Amazon ebook [Daily Coding Problem: Get exceptionally good at coding interviews by solving one problem every day](https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/)
+- Amazon ebook [Programming Interviews Exposed: Coding Your Way Through the Interview 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview)
+- Amazon ebook [Surviving the Whiteboard Interview: A Developer’s Guide to Using Soft Skills to Get Hired](https://www.amazon.com/Surviving-Whiteboard-Interview-Developers-Skills/)
+- Tips [Tips for Technical Interview](https://learntocodewith.me/posts/technical-interview/)
+- Tips [Programming Interview](https://learntocodewith.me/posts/programming-interview/)
 
 
 
@@ -90,6 +95,7 @@ Tips [Programming Interview](https://learntocodewith.me/posts/programming-interv
 - Human Computer Interaction Design [Encyclopedia of Human Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
 - Free UX ebooks [Free User Experience Ebooks](https://www.uxpin.com/studio/ebooks/)
 - User Experience Beginner [UX Beginner](https://www.uxbeginner.com/)
+- Full Stack Open Mooc [Full stack open*](https://fullstackopen.com/en/)
 
 
 https://scotch.io/
@@ -135,3 +141,5 @@ Oracle Java Community [Oracle Java Community](https://www.oracle.com/technetwork
 - Implement [Chaos monkey for Spring Boot](https://github.com/bhavyakamboj/chaos-monkey-spring-boot)
 - Implement [Hikaku - tests if api developed meets its specifications](https://github.com/codecentric/hikaku)
 - Implement BDD with JUnit5 [Structured Junit 5](https://blog.codecentric.de/en/2018/09/structured-junit-5-testing/)
+- Create functional app in Java 8 using Cyclops [Cyclops - functional app in java 8](https://github.com/aol/cyclops)
+- [Moloch to capture realtime data](https://github.com/aol/moloch) and feed to kafka stream / spark
