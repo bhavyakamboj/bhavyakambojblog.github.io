@@ -9,7 +9,7 @@ name: Bhavya Kamboj's blog
 description: Web Developer from India
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://en.gravatar.com/userimage/159497941/0672cdb924b3ea09cab147c7c083f87a.jpg
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: bhavyakamboj
   instagram:
-  linkedin:
+  linkedin: bhavyakamboj
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: bhavyakamboj
