@@ -58,6 +58,9 @@ java 8 / 11 certification
 - MOOC.FI [Free Mooc FI courses](https://www.mooc.fi/en/)
 - Docker [DevOps with Docker](https://devopswithdocker.com/)
 
+### Design Patterns
+java-design-patterns.com [Java design patterns - 100+ patterns](https://java-design-patterns.com/) Github: [repo](https://github.com/iluwatar/java-design-patterns)
+
 ### Interview
 - Interview cake [Interview Cake TOC](https://www.interviewcake.com/table-of-contents)
 - Algo Expert [AlgoExpert - Algo and System Design](https://www.algoexpert.io/)
