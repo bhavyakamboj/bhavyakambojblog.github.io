@@ -1,8 +1,7 @@
 ---
 published: true
 ---
-## Resourses for Java
-
+Collection of resources related to Java programming language
 
 - edX Java [edX Java](https://www.edx.org/learn/java)
 - edX Harward Intro to Computer Science [Harward - Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
