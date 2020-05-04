@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-### Full Stack Developer, seriously!
+Collection of resources to help become a full stack developer. Technologies covered are Java, Spring, Sql, Git, Javascript, React, Angular, Docker etc. These cover most of the requirements for a modern full stack developer.
 
 So I came upon a very informative post at [Full Stack Developer Roadmap](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327 "The 2020 developer roadmap")
 
