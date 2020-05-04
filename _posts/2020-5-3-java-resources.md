@@ -60,6 +60,8 @@ java 8 / 11 certification
 
 ### Design Patterns
 java-design-patterns.com [Java design patterns - 100+ patterns](https://java-design-patterns.com/) Github: [repo](https://github.com/iluwatar/java-design-patterns)
+Programming principles [Programming principles](https://github.com/webpro/programming-principles)
+Short java snippets - sorting, arrays etc [30 seconds of Java snippets](https://github.com/iluwatar/30-seconds-of-java)
 
 ### Interview
 - Interview cake [Interview Cake TOC](https://www.interviewcake.com/table-of-contents)
