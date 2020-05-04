@@ -79,7 +79,14 @@ java 8 / 11 certification
 - Tips [Tips for Technical Interview](https://learntocodewith.me/posts/technical-interview/)
 - Tips [Programming Interview](https://learntocodewith.me/posts/programming-interview/)
 
-
+### Competitive Programming
+- Hacker Rank [Hacker Rank](https://www.hackerrank.com/dashboard)
+- Top Coder [Top Coder](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
+- Code Forces [Code Forces](http://codeforces.com/)
+- Hacker Earth [Hacker Earth](https://www.hackerearth.com/)
+- Code Chef DSA [Code Chef DSA](https://www.codechef.com/LEARNDSA?order=desc&sortBy=successful_submissions)
+- Spoj [Spoj](https://www.spoj.com/)
+- OpenDSA course by Instructure [Open DSA course](https://canvas.instructure.com/)
 
 ### Front end
 - Mozilla Developer Network [Mozilla Developer Network: MDN - HTML, CSS, JS](https://developer.mozilla.org/en-US/)
@@ -96,6 +103,7 @@ java 8 / 11 certification
 - Free UX ebooks [Free User Experience Ebooks](https://www.uxpin.com/studio/ebooks/)
 - User Experience Beginner [UX Beginner](https://www.uxbeginner.com/)
 - Full Stack Open Mooc [Full stack open*](https://fullstackopen.com/en/)
+- Javascript 30 [Javascript 30 course](https://javascript30.com/)
 
 
 https://scotch.io/
