@@ -16,6 +16,7 @@ java 8 / 11 certification
 - Codecademy [CodeCademy Computer Science Path](https://www.codecademy.com/learn/paths/computer-science)
 - CodeWars [CodeWars](https://www.codewars.com/)
 - Codingame [Codingame - Learn Java by playing game* in progress](https://www.codingame.com/)
+- Code Gym [Code Gym - Java Syntax, Core, Collections and Multithreading](https://codegym.cc/)
 - Khan Academy [KhanAcademy](https://www.khanacademy.org/)
 - Code Combat [Code Combat](https://codecombat.com/)
 - CheckIo [Check IO](https://checkio.org/) (JS/Python)
