@@ -138,11 +138,16 @@ Web Developer in 2020 - [Map for Web Developer in 2020](https://coggle.it/diagra
 - [Josh Long - Spring](http://joshlong.com/)
 
 
-Online communities
-Reddit
+## Online communities
+Reddit [Reddit](https://reddit.com)
 Stack Overflow [Stack Overflow - Java](https://stackoverflow.com/questions/tagged/java)
 Code Ranch [Code Ranch](https://coderanch.com/c/java)
 Oracle Java Community [Oracle Java Community](https://www.oracle.com/technetwork/java/community/index.html)
+
+
+## Database
+W3 Resource - SQL Tutorials [W3Resourse SQL tutorials](https://www.w3resource.com/sql/tutorials.php)
+
 
 ## Project Ideas
 - OptaPlanner [OptaPlanner](https://www.optaplanner.org/)
