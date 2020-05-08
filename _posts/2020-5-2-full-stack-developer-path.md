@@ -35,3 +35,6 @@ The topics are as follows
 ## 2. Introduction to Programming
 
 [FreeCodeCamp](https://freecodecamp.org)
+
+## 3. Important articles
+- Cost of javascript frameworks - [The cost of javascript frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/?mc_cid=dc854a4126&mc_eid=[UNIQID])
