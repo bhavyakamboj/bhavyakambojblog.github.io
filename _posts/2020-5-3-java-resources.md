@@ -65,6 +65,9 @@ Programming principles [Programming principles](https://github.com/webpro/progra
 Short java snippets - sorting, arrays etc [30 seconds of Java snippets](https://github.com/iluwatar/30-seconds-of-java)
 
 ### Interview
+- Coding and Interview skills [Coder Byte](https://coderbyte.com/)
+- Interview Bit [Interview Bit](https://www.interviewbit.com/)
+- LeetCode [Leet Code](https://leetcode.com/)
 - Interview cake [Interview Cake TOC](https://www.interviewcake.com/table-of-contents)
 - Algo Expert [AlgoExpert - Algo and System Design](https://www.algoexpert.io/)
 - Coursera [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
@@ -84,7 +87,7 @@ Short java snippets - sorting, arrays etc [30 seconds of Java snippets](https://
 - Tips [Tips for Technical Interview](https://learntocodewith.me/posts/technical-interview/)
 - Tips [Programming Interview](https://learntocodewith.me/posts/programming-interview/)
 
-### Competitive Programming
+### Competitive Programming / Data Structures / Algorithms
 - Hacker Rank [Hacker Rank](https://www.hackerrank.com/dashboard)
 - Top Coder [Top Coder](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
 - Code Forces [Code Forces](http://codeforces.com/)
@@ -92,6 +95,9 @@ Short java snippets - sorting, arrays etc [30 seconds of Java snippets](https://
 - Code Chef DSA [Code Chef DSA](https://www.codechef.com/LEARNDSA?order=desc&sortBy=successful_submissions)
 - Spoj [Spoj](https://www.spoj.com/)
 - OpenDSA course by Instructure [Open DSA course](https://canvas.instructure.com/)
+- Geeks For Geeks - Data Structures* [GFG DS](https://www.geeksforgeeks.org/data-structures/)
+- Geeks For Geeks - Algorithms* [GFG Algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+- Codility ** - [Codility](https://app.codility.com/programmers/lessons/1-iterations/)
 
 ### Front end
 - Mozilla Developer Network [Mozilla Developer Network: MDN - HTML, CSS, JS](https://developer.mozilla.org/en-US/)
