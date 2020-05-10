@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-Collection of resources related to Java programming language
+# Java language
 
 - edX Java [edX Java](https://www.edx.org/learn/java)
 - edX Harward Intro to Computer Science [Harward - Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
@@ -87,58 +87,7 @@ Short java snippets - sorting, arrays etc [30 seconds of Java snippets](https://
 - Tips [Tips for Technical Interview](https://learntocodewith.me/posts/technical-interview/)
 - Tips [Programming Interview](https://learntocodewith.me/posts/programming-interview/)
 
-### Competitive Programming / Data Structures / Algorithms
-- Hacker Rank [Hacker Rank](https://www.hackerrank.com/dashboard)
-- Top Coder [Top Coder](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
-- Code Forces [Code Forces](http://codeforces.com/)
-- Hacker Earth [Hacker Earth](https://www.hackerearth.com/)
-- Code Chef DSA [Code Chef DSA](https://www.codechef.com/LEARNDSA?order=desc&sortBy=successful_submissions)
-- Spoj [Spoj](https://www.spoj.com/)
-- OpenDSA course by Instructure [Open DSA course](https://canvas.instructure.com/)
-- Steven Skiena Youtube [Steven Skiena - Youtube](https://www.youtube.com/channel/UCh27N8m4Jp_rkwx26Q4iclQ)
-
-Curated set of problems
-- Codility ** - [Codility](https://app.codility.com/programmers/lessons/1-iterations/)
-- Code Zen by Coding Ninjas [Code Zen](https://codezen.codingninjas.com/dashboard)
-- Code Monk by Hacker Earth [Code Monk](https://www.hackerearth.com/practice/codemonk/)
-- Problems in TopCoder [TopCoder - problems](https://community.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=&div1l=&div2l=1&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=)
-- Geeks For Geeks - Data Structures* [GFG DS](https://www.geeksforgeeks.org/data-structures/)
-- Geeks For Geeks - Algorithms* [GFG Algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-- Coding Game - Easy [CodingGame](https://www.codingame.com/training/easy)
-- Code Chef [Code Chef - DSA](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
-- HTML, CSS, JS, DS/Algo by Coding Ninjas [InterQues](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-
-### Front end
-- Mozilla Developer Network [Mozilla Developer Network: MDN - HTML, CSS, JS](https://developer.mozilla.org/en-US/)
-- NodeSchool [Node School - interactive course command line](https://nodeschool.io/)
-- Watch and Code [Watch and Code - Practical Javascript](https://watchandcode.com/)
-- Learn JS by playing games [Learn JS by playing games - Steam](https://screeps.com/)
-- JavaScript for Cats [JavaScript for Cats](http://jsforcats.com/)
-- HTML Dog [HTML Dog - HTML, CSS and Javascript](https://www.htmldog.com/)
-- Marksheet IO[MarkSheet IO - HTML and CSS tutorial](https://marksheet.io/)
-- Learn JS [Learn JS - Interactive course](https://www.learn-js.org/)
-- Learn HTML [Learn HTML - interactive course](https://www.learn-html.org/)
-- Eloquent JavaScript [Eloquent JavaScript - 3rd edition](https://eloquentjavascript.net/)
-- Human Computer Interaction Design [Encyclopedia of Human Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
-- Free UX ebooks [Free User Experience Ebooks](https://www.uxpin.com/studio/ebooks/)
-- User Experience Beginner [UX Beginner](https://www.uxbeginner.com/)
-- Full Stack Open Mooc [Full stack open*](https://fullstackopen.com/en/)
-- Javascript 30 [Javascript 30 course](https://javascript30.com/)
-
-
-https://scotch.io/
-https://launchschool.com/books/javascript/read/introduction
-https://launchschool.com/books/regex/read/introduction
-https://launchschool.com/books/sql/read/introduction
-https://launchschool.com/books/working_with_apis/read/introduction
-https://launchschool.com/books/http/read/introduction
-https://launchschool.com/books/command_line/read/introduction
-https://launchschool.com/books/git/read/introduction
-
-Complete road map [Learn Code Academy - Youtube](https://www.youtube.com/user/learncodeacademy)
-Web Developer in 2020 - [Map for Web Developer in 2020](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
-
-### Blogs
+### Java Blogs
 - Java Guides [Java Guides - Source codes for projects](https://www.javaguides.net/)
 - Java Guides Youtube [Java Guides - Youtube Channel](https://www.youtube.com/channel/UC1Be9fnFTlcsUlejgfqag0g/)
 - [DZone](https://dzone.com/)
