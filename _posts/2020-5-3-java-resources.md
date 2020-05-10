@@ -1,7 +1,8 @@
 ---
 published: true
 ---
-# Java language
+## Java language
+Below are resourses to get familiar with the Java programming language
 
 - edX Java [edX Java](https://www.edx.org/learn/java)
 - edX Harward Intro to Computer Science [Harward - Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
