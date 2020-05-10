@@ -95,6 +95,8 @@ Short java snippets - sorting, arrays etc [30 seconds of Java snippets](https://
 - Code Chef DSA [Code Chef DSA](https://www.codechef.com/LEARNDSA?order=desc&sortBy=successful_submissions)
 - Spoj [Spoj](https://www.spoj.com/)
 - OpenDSA course by Instructure [Open DSA course](https://canvas.instructure.com/)
+- Steven Skiena Youtube [Steven Skiena - Youtube](https://www.youtube.com/channel/UCh27N8m4Jp_rkwx26Q4iclQ)
+
 Curated set of problems
 - Codility ** - [Codility](https://app.codility.com/programmers/lessons/1-iterations/)
 - Code Zen by Coding Ninjas [Code Zen](https://codezen.codingninjas.com/dashboard)
@@ -103,6 +105,8 @@ Curated set of problems
 - Geeks For Geeks - Data Structures* [GFG DS](https://www.geeksforgeeks.org/data-structures/)
 - Geeks For Geeks - Algorithms* [GFG Algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 - Coding Game - Easy [CodingGame](https://www.codingame.com/training/easy)
+- Code Chef [Code Chef - DSA](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
+- HTML, CSS, JS, DS/Algo by Coding Ninjas [InterQues](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
 ### Front end
 - Mozilla Developer Network [Mozilla Developer Network: MDN - HTML, CSS, JS](https://developer.mozilla.org/en-US/)
