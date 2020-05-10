@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Competitive Programming / Data Structures / Algorithms
 - Hacker Rank [Hacker Rank](https://www.hackerrank.com/dashboard)
