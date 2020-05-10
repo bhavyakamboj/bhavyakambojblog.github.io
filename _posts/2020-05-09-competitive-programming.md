@@ -9,3 +9,5 @@ published: false
 - Descriptions of many algorithms and data structures for competitive programming [Cpp Algorithms](https://cp-algorithms.com/)
  [Stanford - CS97si](http://web.stanford.edu/class/cs97si/)
  - Important algorithms for competitive programming [Algos - CodeChef](https://discuss.codechef.com/t/what-are-the-must-known-algorithms-for-online-programming-contests/2717/4)
+ - Maths concepts [Maths](https://medium.com/programming-and-algorithms-iitr/a-voyage-through-numbers-4695eb29df43)
+ - Competitive programming - warmup [Warmup](https://medium.com/programming-and-algorithms-iitr/competitive-programming-a-warm-up-66d0ce0bbaff)
