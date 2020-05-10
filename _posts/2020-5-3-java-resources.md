@@ -102,6 +102,7 @@ Curated set of problems
 - Problems in TopCoder [TopCoder - problems](https://community.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=&div1l=&div2l=1&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=)
 - Geeks For Geeks - Data Structures* [GFG DS](https://www.geeksforgeeks.org/data-structures/)
 - Geeks For Geeks - Algorithms* [GFG Algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+- Coding Game - Easy [CodingGame](https://www.codingame.com/training/easy)
 
 ### Front end
 - Mozilla Developer Network [Mozilla Developer Network: MDN - HTML, CSS, JS](https://developer.mozilla.org/en-US/)
