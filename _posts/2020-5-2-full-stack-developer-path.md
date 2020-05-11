@@ -38,3 +38,11 @@ The topics are as follows
 
 ## 3. Important articles
 - Cost of javascript frameworks - [The cost of javascript frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/?mc_cid=dc854a4126&mc_eid=[UNIQID])
+- System Design [Intro to System Design](https://www.effective-programmer.com/2020/04/15/introduction-to-system-design-for-web-and-mobile-applications/)
+- What is a [cdn](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
+- Using [message queues](https://www.effective-programmer.com/2020/01/26/reintroducing-message-queues-for-background-processing/) for background processing
+- Intro to [microservices](https://www.nginx.com/blog/introduction-to-microservices/) by NGinX
+- What is [high availability](https://www.digitalocean.com/community/tutorials/what-is-high-availability)
+- How to [ace programming interview](https://www.effective-programmer.com/2020/03/23/how-to-master-coding-interview-questions-and-ace-any-programming-interview/)
+- Scaling to [millions](https://www.effective-programmer.com/2018/09/09/scaling-to-millions/)
+- Data driven [programming](https://www.effective-programmer.com/2018/05/27/introduction-to-data-driven-programming/)
