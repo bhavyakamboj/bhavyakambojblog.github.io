@@ -88,6 +88,9 @@ Short java snippets - sorting, arrays etc [30 seconds of Java snippets](https://
 - Tips [Tips for Technical Interview](https://learntocodewith.me/posts/technical-interview/)
 - Tips [Programming Interview](https://learntocodewith.me/posts/programming-interview/)
 
+## System Design
+- Learn system design - ultimate resource ** [System design primer](https://github.com/donnemartin/system-design-primer)
+
 ### Java Blogs
 - Java Guides [Java Guides - Source codes for projects](https://www.javaguides.net/)
 - Java Guides Youtube [Java Guides - Youtube Channel](https://www.youtube.com/channel/UC1Be9fnFTlcsUlejgfqag0g/)
