@@ -29,5 +29,5 @@ Following are various style guides for Java, JS, Angular, React, CSS in JS etc.
 - Oracle [java code](https://www.oracle.com/technetwork/java/codeconventions-150003.pdf) conventions
 
 ### Google
-- All [style guides](https://github.com/google/styleguide)
+- All [style guides](https://github.com/google/styleguide) 
 
