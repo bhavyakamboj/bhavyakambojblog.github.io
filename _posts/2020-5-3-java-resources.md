@@ -116,6 +116,8 @@ Oracle Java Community [Oracle Java Community](https://www.oracle.com/technetwork
 ## Database
 W3 Resource - SQL Tutorials [W3Resourse SQL tutorials](https://www.w3resource.com/sql/tutorials.php)
 
+## Cryptography
+- Google's [tink](https://github.com/google/tink) multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 
 ## Project Ideas
 - OptaPlanner [OptaPlanner](https://www.optaplanner.org/)
@@ -130,3 +132,6 @@ W3 Resource - SQL Tutorials [W3Resourse SQL tutorials](https://www.w3resource.co
 - Create functional app in Java 8 using Cyclops [Cyclops - functional app in java 8](https://github.com/aol/cyclops)
 - [Moloch to capture realtime data](https://github.com/aol/moloch) and feed to kafka stream / spark
 - App using predictions / Ml [Prediction IO](https://predictionio.apache.org/gallery/template-gallery/)
+- Video player using google's [Shaka Player](https://shaka-player-demo.appspot.com/) and [source code](https://github.com/google/shaka-player) also [embedded](https://github.com/google/shaka-player-embedded) 
+- Google's [timesketch](https://github.com/google/timesketch) for forensic timeline analysis - can be used to analyze logs/time based data like stock market events etc.
+- 
