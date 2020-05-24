@@ -19,3 +19,4 @@ Few project ideas as below
 - Google's [timesketch](https://github.com/google/timesketch) for forensic timeline analysis - can be used to analyze logs/time based data like stock market events etc.
 - Module / Project to leverage code for sending emails using SMTP/Amazon SES
 - Create a application using cadence workflow https://cadenceworkflow.io/ - retry with guaranteed execution, downloading with retries, etc. Library is developed by uber and contains cassandra, queue and timer to guarantee execution of code.
+- Use CUBA platform for Rapid Application Development - https://github.com/bhavyakamboj/cuba-example-using-scheduled-reports Scheduled Reports
