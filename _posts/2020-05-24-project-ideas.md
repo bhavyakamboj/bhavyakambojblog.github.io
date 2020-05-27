@@ -20,3 +20,5 @@ Few project ideas as below
 - Module / Project to leverage code for sending emails using SMTP/Amazon SES
 - Create a application using cadence workflow https://cadenceworkflow.io/ - retry with guaranteed execution, downloading with retries, etc. Library is developed by uber and contains cassandra, queue and timer to guarantee execution of code.
 - Use CUBA platform for Rapid Application Development - https://github.com/bhavyakamboj/cuba-example-using-scheduled-reports Scheduled Reports
+- open food network distribution system - https://openfoodnetwork.org/user-guide/
+- 99 problems in any language http://aperiodic.net/phil/scala/s-99/
