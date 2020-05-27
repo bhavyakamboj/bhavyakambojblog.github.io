@@ -10,6 +10,7 @@ published: true
 - Spoj [Spoj](https://www.spoj.com/)
 - OpenDSA course by Instructure [Open DSA course](https://canvas.instructure.com/)
 - Steven Skiena Youtube [Steven Skiena - Youtube](https://www.youtube.com/channel/UCh27N8m4Jp_rkwx26Q4iclQ)
+- Library of algorithms https://www.jjj.de/fxt/#fxtbook
 
 ## Curated set of problems
 - Codility ** - [Codility](https://app.codility.com/programmers/lessons/1-iterations/)
