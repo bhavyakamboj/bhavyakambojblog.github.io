@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Random interview questions here and there
 
