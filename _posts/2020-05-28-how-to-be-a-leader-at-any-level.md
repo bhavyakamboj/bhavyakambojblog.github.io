@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 12 ways to take the lead at work and be a champion of progress no matter your role, title, or seniority.
 
