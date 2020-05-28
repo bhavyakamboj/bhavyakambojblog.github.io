@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 All about databases and sql query syntax
 
