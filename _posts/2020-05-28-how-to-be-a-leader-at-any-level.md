@@ -3,8 +3,6 @@ published: true
 ---
 12 ways to take the lead at work and be a champion of progress no matter your role, title, or seniority.
 
-Excerpt from original article at [medium](https://medium.com/awake-leadership-solutions/how-to-be-a-leader-at-any-level-29b243a1488b)
-
 Large companies and organizations have levels or “org structures” because, to achieve goals as a team, there must be a few senior leaders giving direction and shaping culture. A team working toward a common goal needs a central, visionary voice for direction. This is typically the role of senior leadership.
 
 Essentially, a leader’s role is to guide the team toward a vision. A leader is different from a manager because while a manager maintains status-quo, a leader champions change and growth. A leader must know how to articulate the vision, delegate, provide support, distribute resources, and motivate the team. A leader must be respected by the team in order for the team members to follow his or her lead.
@@ -59,3 +57,6 @@ When you find yourself in a difficult situation — when you feel like respondin
 
 ## 12. Lead by example.
 Finally, always lead by example. Do what you know is right in any situation. We learn from respected leaders and influencers, but the ultimate transition to leader happens when we start to act authentically in the way we would act, as ourselves.
+
+
+Excerpt from original article at [medium](https://medium.com/awake-leadership-solutions/how-to-be-a-leader-at-any-level-29b243a1488b)
