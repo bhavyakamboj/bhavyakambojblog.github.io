@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Few project ideas as below
 
