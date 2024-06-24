@@ -32,3 +32,6 @@ published: true
  - Important algorithms for competitive programming [Algos - CodeChef](https://discuss.codechef.com/t/what-are-the-must-known-algorithms-for-online-programming-contests/2717/4)
  - Maths concepts [Maths](https://medium.com/programming-and-algorithms-iitr/a-voyage-through-numbers-4695eb29df43)
  - Competitive programming - warmup [Warmup](https://medium.com/programming-and-algorithms-iitr/competitive-programming-a-warm-up-66d0ce0bbaff)
+ - Maths for cp - https://www.geeksforgeeks.org/math-in-competitive-programming/
+ - Tips and tricks 1 - https://www.geeksforgeeks.org/tips-and-tricks-for-competitive-programmers-set-1-for-beginners/?ref=rp
+ - Tips and tricks 2 - https://www.geeksforgeeks.org/tips-and-tricks-for-competitive-programmers-set-2-which-language-should-be-used-for-competitive-programming/?ref=rp
